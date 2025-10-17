@@ -35,3 +35,9 @@ Here is a curated reading list.
 - Li, X., Ruan, F., Wang, H., Long, Q., & Su, W. J. (2025). A statistical framework of watermarks for large language models: Pivot, detection efficiency and optimal rules. The Annals of Statistics, 53(1), 322–351. https://doi.org/10.1214/24-AOS2468
 - Xie, Y., Li, X., Mallick, T., Su, W., & Zhang, R. (2025). Debiasing Watermarks for Large Language Models via Maximal Coupling. Journal of the American Statistical Association, 0(0), 1–11. https://doi.org/10.1080/01621459.2025.2520455
 - Li, X., Ruan, F., Wang, H., Long, Q., & Su, W. J. (2025). Robust detection of watermarks for large language models under human edits. Journal of the Royal Statistical Society Series B, qkaf056, https://doi.org/10.1093/jrsssb/qkaf056
+
+## Lecture 5: Beyond Fairness -- Black-box Inference
+
+- Angelopoulos, A. N., Bates, S., Fannjiang, C., Jordan, M. I., & Zrnic, T. (2023). Prediction-powered inference. Science, 382(6671), 669–674. https://doi.org/10.1126/science.adi6000
+- Zrnic, T., & Candès, E. J. (2024). Cross-prediction-powered inference. Proceedings of the National Academy of Sciences, 121(15), e2322083121. https://doi.org/10.1073/pnas.2322083121
+- Miao, J., Miao, X., Wu, Y., Zhao, J., & Lu, Q. (2025). Assumption-lean and data-adaptive post-prediction inference. Journal of Machine Learning Research, 26(179), 1–31. https://www.jmlr.org/papers/v26/24-0056.html
