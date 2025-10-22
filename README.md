@@ -41,3 +41,9 @@ Here is a curated reading list.
 - Angelopoulos, A. N., Bates, S., Fannjiang, C., Jordan, M. I., & Zrnic, T. (2023). Prediction-powered inference. Science, 382(6671), 669–674. https://doi.org/10.1126/science.adi6000
 - Zrnic, T., & Candès, E. J. (2024). Cross-prediction-powered inference. Proceedings of the National Academy of Sciences, 121(15), e2322083121. https://doi.org/10.1073/pnas.2322083121
 - Miao, J., Miao, X., Wu, Y., Zhao, J., & Lu, Q. (2025). Assumption-lean and data-adaptive post-prediction inference. Journal of Machine Learning Research, 26(179), 1–31. https://www.jmlr.org/papers/v26/24-0056.html
+
+## Lecture 6: Beyond Watermarking -- Higher Criticism
+
+- Donoho, D., & Jin, J. (2004). Higher criticism for detecting sparse heterogeneous mixtures. The Annals of Statistics, 32(3), 962–994. https://doi.org/10.1214/009053604000000265
+- Donoho, D., & Jin, J. (2015). Higher Criticism for Large-Scale Inference, Especially for Rare and Weak Effects. Statistical Science, 30(1), 1–25. https://doi.org/10.1214/14-STS506
+- Li, J., & Siegmund, D. (2015). Higher criticism: $p$-values and criticism. The Annals of Statistics, 43(3). https://doi.org/10.1214/15-AOS1312
