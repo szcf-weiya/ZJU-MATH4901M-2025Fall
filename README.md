@@ -47,3 +47,10 @@ Here is a curated reading list.
 - Donoho, D., & Jin, J. (2004). Higher criticism for detecting sparse heterogeneous mixtures. The Annals of Statistics, 32(3), 962–994. https://doi.org/10.1214/009053604000000265
 - Donoho, D., & Jin, J. (2015). Higher Criticism for Large-Scale Inference, Especially for Rare and Weak Effects. Statistical Science, 30(1), 1–25. https://doi.org/10.1214/14-STS506
 - Li, J., & Siegmund, D. (2015). Higher criticism: $p$-values and criticism. The Annals of Statistics, 43(3). https://doi.org/10.1214/15-AOS1312
+
+## Lecture 7: Alignment
+
+- Liu, K., Long, Q., Shi, Z., Su, W. J., & Xiao, J. (2025). Statistical Impossibility and Possibility of Aligning LLMs with Human Preferences: From Condorcet Paradox to Nash Equilibrium (No. arXiv:2503.10990). arXiv. https://doi.org/10.48550/arXiv.2503.10990
+- Li, Z., Xu, T., Zhang, Y., Lin, Z., Yu, Y., Sun, R., & Luo, Z.-Q. (2024). ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models (No. arXiv:2310.10505). arXiv. https://doi.org/10.48550/arXiv.2310.10505
+- Rafailov, R., Sharma, A., Mitchell, E., Ermon, S., Manning, C. D., & Finn, C. (2024). Direct Preference Optimization: Your Language Model is Secretly a Reward Model (No. arXiv:2305.18290). arXiv. https://doi.org/10.48550/arXiv.2305.18290
+
