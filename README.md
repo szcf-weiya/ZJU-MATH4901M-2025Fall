@@ -54,3 +54,8 @@ Here is a curated reading list.
 - Li, Z., Xu, T., Zhang, Y., Lin, Z., Yu, Y., Sun, R., & Luo, Z.-Q. (2024). ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models (No. arXiv:2310.10505). arXiv. https://doi.org/10.48550/arXiv.2310.10505
 - Rafailov, R., Sharma, A., Mitchell, E., Ermon, S., Manning, C. D., & Finn, C. (2024). Direct Preference Optimization: Your Language Model is Secretly a Reward Model (No. arXiv:2305.18290). arXiv. https://doi.org/10.48550/arXiv.2305.18290
 
+## Lecture 8: Beyond Higher Criticism -- Multiple Hypothesis Testing
+
+- Barnett, I., Mukherjee, R., & Lin, X. (2017). The Generalized Higher Criticism for Testing SNP-Set Effects in Genetic Association Studies. Journal of the American Statistical Association, 112(517), 64–76. https://doi.org/10.1080/01621459.2016.1192039
+- Liu, Y., & Xie, J. (2020). Cauchy Combination Test: A Powerful Test With Analytic p-Value Calculation Under Arbitrary Dependency Structures. Journal of the American Statistical Association, 115(529), 393–402. https://doi.org/10.1080/01621459.2018.1554485
+- Vesely, A., Finos, L., & Goeman, J. J. (2023). Permutation-based true discovery guarantee by sum tests. Journal of the Royal Statistical Society Series B: Statistical Methodology, 85(3), 664–683. https://doi.org/10.1093/jrsssb/qkad019
