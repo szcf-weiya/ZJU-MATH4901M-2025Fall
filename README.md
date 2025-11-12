@@ -60,7 +60,7 @@ Here is a curated reading list.
 - Liu, Y., & Xie, J. (2020). Cauchy Combination Test: A Powerful Test With Analytic p-Value Calculation Under Arbitrary Dependency Structures. Journal of the American Statistical Association, 115(529), 393–402. https://doi.org/10.1080/01621459.2018.1554485
 - Vesely, A., Finos, L., & Goeman, J. J. (2023). Permutation-based true discovery guarantee by sum tests. Journal of the Royal Statistical Society Series B: Statistical Methodology, 85(3), 664–683. https://doi.org/10.1093/jrsssb/qkad019
 
-## Lecture 10: Beyond Alignment -- Reinforcement Learning
+## Lecture 9: Beyond Alignment -- Reinforcement Learning
 
 - Sutton, R. S., & Barto, A. (2020). Reinforcement learning: An introduction (Second edition). The MIT Press. http://incompleteideas.net/book/RLbook2020.pdf
 - https://github.com/zhoubolei/introRL
