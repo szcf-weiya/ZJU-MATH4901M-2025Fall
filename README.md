@@ -66,3 +66,12 @@ Here is a curated reading list.
 - https://github.com/zhoubolei/introRL
 - https://github.com/ucla-rlcourse/RLexample
 
+## Lecture 10: Generative AI
+
+- Kotelnikov, A., Baranchuk, D., Rubachev, I., & Babenko, A. (2023). TabDDPM: Modelling Tabular Data with Diffusion Models. Proceedings of the 40th International Conference on Machine Learning, 17564–17579. https://proceedings.mlr.press/v202/kotelnikov23a.html
+- Ho, J., Jain, A., & Abbeel, P. (2020). Denoising Diffusion Probabilistic Models (No. arXiv:2006.11239). arXiv. https://doi.org/10.48550/arXiv.2006.11239
+- Song, Y., Sohl-Dickstein, J., Kingma, D. P., Kumar, A., Ermon, S., & Poole, B. (2021). Score-Based Generative Modeling through Stochastic Differential Equations (No. arXiv:2011.13456). arXiv. https://doi.org/10.48550/arXiv.2011.13456
+- Papamakarios, G., Nalisnick, E., Rezende, D. J., Mohamed, S., & Lakshminarayanan, B. (2021). Normalizing Flows for Probabilistic Modeling and Inference. Journal of Machine Learning Research, 22(57), 1–64.
+- CVPR2022 tutorial（https://cvpr2022-tutorial-diffusion-models.github.io/)
+- MIT course (https://diffusion.csail.mit.edu/)
+
