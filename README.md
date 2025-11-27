@@ -75,3 +75,8 @@ Here is a curated reading list.
 - CVPR2022 tutorial（https://cvpr2022-tutorial-diffusion-models.github.io/)
 - MIT course (https://diffusion.csail.mit.edu/)
 
+## Lecture 11: Synthetic Data (Help or Hype?)
+
+- Shen, X., Liu, Y., & Shen, R. (2024). Boosting Data Analytics With Synthetic Volume Expansion (No. arXiv:2310.17848). arXiv. https://doi.org/10.48550/arXiv.2310.17848
+- Tian, X., & Shen, X. (2025). Enhancing Accuracy in Generative Models via Knowledge Transfer (No. arXiv:2405.16837). arXiv. https://doi.org/10.48550/arXiv.2405.16837
+- Jain, A., Montanari, A., & Sasoglu, E. (2024, November 6). Scaling laws for learning with real and surrogate data. The Thirty-eighth Annual Conference on Neural Information Processing Systems. https://openreview.net/forum?id=NAcHv7vtL2&noteId=J92zK59XDi
