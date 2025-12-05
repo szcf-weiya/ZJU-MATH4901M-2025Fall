@@ -80,3 +80,11 @@ Here is a curated reading list.
 - Shen, X., Liu, Y., & Shen, R. (2024). Boosting Data Analytics With Synthetic Volume Expansion (No. arXiv:2310.17848). arXiv. https://doi.org/10.48550/arXiv.2310.17848
 - Tian, X., & Shen, X. (2025). Enhancing Accuracy in Generative Models via Knowledge Transfer (No. arXiv:2405.16837). arXiv. https://doi.org/10.48550/arXiv.2405.16837
 - Jain, A., Montanari, A., & Sasoglu, E. (2024, November 6). Scaling laws for learning with real and surrogate data. The Thirty-eighth Annual Conference on Neural Information Processing Systems. https://openreview.net/forum?id=NAcHv7vtL2&noteId=J92zK59XDi
+
+## Lecture 12: Privacy
+
+- Su, W. J. (2025). A Statistical Viewpoint on Differential Privacy: Hypothesis Testing, Representation, and Blackwell’s Theorem. Annual Review of Statistics and Its Application, 12(1), 157–175. https://doi.org/10.1146/annurev-statistics-112723-034158
+- Yu, D., Naik, S., Backurs, A., Gopi, S., Inan, H. A., Kamath, G., Kulkarni, J., Lee, Y. T., Manoel, A., Wutschitz, L., Yekhanin, S., & Zhang, H. (2022). Differentially Private Fine-tuning of Language Models (No. arXiv:2110.06500). arXiv. https://doi.org/10.48550/arXiv.2110.06500
+- Dong, J., Roth, A., & Su, W. J. (2022). Gaussian Differential Privacy. Journal of the Royal Statistical Society Series B: Statistical Methodology, 84(1), 3–37. https://doi.org/10.1111/rssb.12454
+- Abadi, M., Chu, A., Goodfellow, I., McMahan, H. B., Mironov, I., Talwar, K., & Zhang, L. (2016). Deep Learning with Differential Privacy. Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security, 308–318. https://doi.org/10.1145/2976749.2978318
+- Bu, Z., Dong, J., Long, Q., & Su, W. (2020). Deep Learning With Gaussian Differential Privacy. Harvard Data Science Review, 2(3). https://doi.org/10.1162/99608f92.cfc5dd25
