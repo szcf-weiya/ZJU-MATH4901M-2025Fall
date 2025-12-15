@@ -88,3 +88,9 @@ Here is a curated reading list.
 - Dong, J., Roth, A., & Su, W. J. (2022). Gaussian Differential Privacy. Journal of the Royal Statistical Society Series B: Statistical Methodology, 84(1), 3–37. https://doi.org/10.1111/rssb.12454
 - Abadi, M., Chu, A., Goodfellow, I., McMahan, H. B., Mironov, I., Talwar, K., & Zhang, L. (2016). Deep Learning with Differential Privacy. Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security, 308–318. https://doi.org/10.1145/2976749.2978318
 - Bu, Z., Dong, J., Long, Q., & Su, W. (2020). Deep Learning With Gaussian Differential Privacy. Harvard Data Science Review, 2(3). https://doi.org/10.1162/99608f92.cfc5dd25
+
+## Lecture 13: Model Collapse
+
+- Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. Nature, 631(8022), 755–759. https://doi.org/10.1038/s41586-024-07566-y
+- Gerstgrasser, M., Schaeffer, R., Dey, A., Rafailov, R., Sleight, H., Hughes, J., Korbak, T., Agrawal, R., Pai, D., Gromov, A., Roberts, D. A., Yang, D., Donoho, D. L., & Koyejo, S. (2024). Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data (No. arXiv:2404.01413). arXiv. https://doi.org/10.48550/arXiv.2404.01413
+- Dohmatob, E., Feng, Y., & Kempe, J. (2024). Model Collapse Demystified: The Case of Regression. Advances in Neural Information Processing Systems, 37, 46979–47013.
